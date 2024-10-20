@@ -92,4 +92,4 @@ const ModernPortfolio = () => {
   );
 };
 
-export default ModernPortfolio;
+export default App;
